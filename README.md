@@ -1,5 +1,7 @@
-# Hi! I'm Emma
-
+# Hi! I'm Emma!
+### I'm a Software Engineering Student based in Ottawa
+### This is mainly my page for my personal projects I do in between school and work
+### Check out my pinned projects below!
 <!--
 **power-emma/power-emma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
